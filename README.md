@@ -1,8 +1,9 @@
 Secure Account Dashboard with Real-Time Monitiring 
+
 so this project is based on user security where user can securely have access to thier data and can login logout securely, it includes authentication as no other one can directly access without creating account to get into website the user mustr craete account and after login can do furthur activity user can see their last login logout information and can see device information too, user must know that this project/website is based on their data/information security so they have to login carefully as user failed login attemtp more than 3/three times it should lead to stop their activity for a minute and reduce their efficiency, my website also include admin dash board where admin gave all access of users admin can watch over every activity done by user like login information, logout information and device information etc, admin can manage user data and can block/unblock user....
 
 About
-Describe your project in more detail. Explain its purpose, what problem it solves, and who it's for. Mention any specific goals or objectives you had in mind when creating the project.
+
 so this project is all based on user security, user authorisation and user authentication it's purpose is to make user feel safe when they come to this site, purpose is to make user trust so they can relie on our website...
 
 Features
