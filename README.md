@@ -26,7 +26,7 @@ Backend:
 
 Getting Started
 so i have provided this link you can easily get pull of this code and must run command "npm i" to get the other add on libraries 
-1. run assignment file in cmd "npm start"
+1. run assignment file in cmd "npm run dev"
 2. run backend file in cmd "nodemon app" or "node app.js"
 3. make sure database has connected to backend
 4. you cannot directly enter you to register first
